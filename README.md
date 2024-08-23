@@ -1,0 +1,1 @@
+The LSTM NASDAQ Stock Price Prediction Model uses Long Short-Term Memory (LSTM) networks to forecast stock prices for NASDAQ-listed companies. This project demonstrates how to apply LSTM, a type of recurrent neural network (RNN), to predict future stock prices based on historical data.
